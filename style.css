@@ -1,0 +1,17 @@
+body{
+
+}
+.jumbotron{
+	background-color:black;
+}
+.judul{
+	font-size: 21px;
+}
+
+.gambar{
+
+	width: 100%;
+	height: 450px;
+	margin-bottom: 13px; 
+	border-radius: 5px;
+}
